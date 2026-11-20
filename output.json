@@ -1,0 +1,42 @@
+{
+  "models": [
+    {"model":"SRA4TF","mae":0.4888,"rmse":0.5301,"deltaR":0,"ms":3685},
+    {"model":"RF Case(i)","mae":0.0726,"rmse":0.1254,"deltaR":0.5011,"ms":1200},
+    {"model":"RF Case(ii)","mae":0.091,"rmse":0.1472,"deltaR":0.5063,"ms":800}
+  ],
+  "sensors": [
+    {"name":"METRO707","value":69.6667},
+    {"name":"METRO709","value":66.875},
+    {"name":"METRO740","value":68.1111},
+    {"name":"METRO741","value":66.125},
+    {"name":"METRO756","value":65.25},
+    {"name":"METRO757","value":65.3333},
+    {"name":"METRO814","value":66.375}
+  ],
+  "timeseries": [
+    {"hour":"00:00","observed":64.0,"reconstructed":61.4632},
+    {"hour":"01:00","observed":68.3333,"reconstructed":65.9294},
+    {"hour":"02:00","observed":60.2222,"reconstructed":59.4624},
+    {"hour":"03:00","observed":65.4444,"reconstructed":63.1653},
+    {"hour":"04:00","observed":59.6667,"reconstructed":59.1019},
+    {"hour":"05:00","observed":45.8889,"reconstructed":55.0317},
+    {"hour":"06:00","observed":59.4444,"reconstructed":59.4599},
+    {"hour":"07:00","observed":69.5556,"reconstructed":65.6821},
+    {"hour":"08:00","observed":62.8889,"reconstructed":62.1857},
+    {"hour":"09:00","observed":49.5556,"reconstructed":59.6268},
+    {"hour":"10:00","observed":68.1111,"reconstructed":65.2838},
+    {"hour":"11:00","observed":66.5556,"reconstructed":63.0127},
+    {"hour":"12:00","observed":59.2222,"reconstructed":58.7039},
+    {"hour":"13:00","observed":48.5556,"reconstructed":50.7316},
+    {"hour":"14:00","observed":69.8889,"reconstructed":65.7159},
+    {"hour":"15:00","observed":65.5556,"reconstructed":62.4732},
+    {"hour":"16:00","observed":62.6667,"reconstructed":60.473},
+    {"hour":"17:00","observed":29.4444,"reconstructed":52.9074},
+    {"hour":"18:00","observed":68.3333,"reconstructed":65.0321},
+    {"hour":"19:00","observed":27.2222,"reconstructed":54.18},
+    {"hour":"20:00","observed":17.4444,"reconstructed":39.4568},
+    {"hour":"21:00","observed":61.3333,"reconstructed":61.6984},
+    {"hour":"22:00","observed":65.5556,"reconstructed":61.1503},
+    {"hour":"23:00","observed":59.3333,"reconstructed":59.2522}
+  ]
+}
