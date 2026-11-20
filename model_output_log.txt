@@ -1,0 +1,25 @@
+Question: How many students in maths department?
+Best Model: FuzzyMatcher
+FuzzyMatcher | Accuracy: 8.40%
+NaiveBayes | Accuracy: 6.70%
+DecisionTree | Accuracy: 7.20%
+GTRNeuralModel | Accuracy: 8.20%
+Question: How many students in Science  department?
+Best Model: GTRNeuralModel
+FuzzyMatcher | Accuracy: 6.18%
+NaiveBayes | Accuracy: 5.18%
+DecisionTree | Accuracy: 4.81%
+GTRNeuralModel | Accuracy: 7.81%
+Question: How many students in maths department?
+Best Model: FuzzyMatcher
+Best Model: FuzzyMatcher
+FuzzyMatcher | Accuracy: 8.40%
+NaiveBayes | Accuracy: 6.70%
+DecisionTree | Accuracy: 7.20%
+GTRNeuralModel | Accuracy: 8.20%
+Question: Name the member that has 12 chapters
+Best Model: GTRNeuralModel
+FuzzyMatcher | Accuracy: 4.78%
+NaiveBayes | Accuracy: 3.88%
+DecisionTree | Accuracy: 7.81%
+GTRNeuralModel | Accuracy: 8.17%
